@@ -7,6 +7,6 @@ The system is built to help one send money to their loved ones or to people that
 The database is built with a MySQL engine and tracks the database on each query basis to achieve the most recent restart of a database to make sure that the database is up to date to the very last second before a crash.
 
 
-# General Milestones Guidelines:
+# General Guidelines:
 
 * In the documentation you will find the Conceptual and Relational Models.
