@@ -223,4 +223,4 @@ As a user you will be allowed to delete rows that belong to you only. Choose a t
          > Select an option: 7 
          > 
 
-**Note: There is not a lot of error handling done here, please use this at your own descresion this is meant to be a proof od concept only.
+**Note: There is not a lot of error handling done here, please use this at your own descresion this is meant to be a proof of concept only.
