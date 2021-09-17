@@ -2,11 +2,8 @@
 MySQL DB that tracks queries from the last backup to be able to recover data until the last point it crashed.
 
 
-# CSC675-775 Section 03 Database Systems
-Welcome to Database Systems!. Please modify this README file with the following info: 
-
-1. Ramy Fekry.
-
+# SafeEx ATM management System 
+Ramy Fekry.
 
 If one of the milestones, course project or extra-credit assignment is not set to "completed" by its due date, 
 it won't be graded. The first thing I do before grading an assignment is to check the above table.
