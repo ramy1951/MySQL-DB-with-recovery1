@@ -1,9 +1,7 @@
-# MySQL-DB-with-recovery1
-MySQL DB that tracks queries from the last backup to be able to recover data until the last point it crashed.
-
 
 # SafeEx ATM management System 
-Ramy Fekry.
+Built with a MySQL DB that tracks the database on each query basis to achieve the most recent restart of a database to make sure that the database is up to date to the very last second before a crash.
+
 
 # General Milestones Guidelines:
 
