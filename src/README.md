@@ -21,10 +21,7 @@ As a user you will be allowed to delete rows that belong to you only. Choose a t
 
 ## Project Guidelines 
 
-Using your database model, and your favorite programming language, create a functional application (console, terminal or GUI) 
-to represent the functionality of your database model with real users. Your program must meet the following high level requirements: 
-
-### IMPORTANT: When your program runs for the first time, it must automatically create your database, run the databasemodel.sql script to create the tables for your database, and run the inserts.sql script to insert some sample in those tables. All of this must be done before your program starts to interact with the user.
+### IMPORTANT: When your program runs for the first time, it will automatically create the database and tables according to databasemodel.sql, and run the inserts.sql script to insert some dummy data. For every subsequent start integrity checks will be run against the DB to make sure all tables are there and working.
  
  * SafeEx creates a periodical back up of the database, saving queries in transactions.sql
         
